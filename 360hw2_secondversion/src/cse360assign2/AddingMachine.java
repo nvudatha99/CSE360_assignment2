@@ -84,6 +84,7 @@ public class AddingMachine {
 		 one.subtract(7);
 		 one.subtract(4);
 		 one.subtract(10);
+		 one.add(4);
 		 
 		 System.out.println(one.toString() + " = " + one.getTotal());
 		 
