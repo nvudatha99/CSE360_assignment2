@@ -3,9 +3,10 @@ package cse360assign2;
 /**
  * 
  * @author Nikhil Vudatha
+
  * Date: 10/9/2019
  * CSE360 M 70641
- * Description: This program performs and displays the operations it does on integers.
+ * Description: This program performs and displays the operations it does on integers with a main to run the methods with test numbers.
  *
  */
 import java.util.*;
