@@ -1,2 +1,0 @@
-# CSE360_assignment2
-CSE360 70641
